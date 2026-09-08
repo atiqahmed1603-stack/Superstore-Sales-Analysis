@@ -105,3 +105,10 @@ The analytical results were evaluated from a business perspective to identify re
 *Business Implication:* A relatively small customer group contributes a large share of revenue, making retention and engagement of these customers particularly important.
 
 *Recommendation:* Prioritize retention and re-engagement strategies for high-value customers and continue monitoring their purchasing behavior, particularly during weaker sales periods.
+### 2. Central Region Performance
+
+*Finding:* Central region sales declined by approximately 2.8% in 2018 despite a 33% increase in order volume. Average order value declined by approximately 27%, meaning the increase in orders was not enough to offset the lower revenue generated per order. The decline was concentrated in several sub-categories, with Copiers showing the largest decrease. The Canon imageCLASS 2200 Advanced Copier alone declined by approximately $17.5K in sales.
+
+*Business Implication:* Central is generating more orders but extracting less revenue per order. The sharp decline in a previously significant copier product contributed substantially to the regional sales decline.
+
+*Recommendation:* Investigate changes in Central's order composition and the reasons behind the decline in high-value products, particularly the Canon imageCLASS 2200 Advanced Copier. Potential factors such as product availability, customer demand, or product mix should be investigated before deciding on corrective actions.
