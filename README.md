@@ -93,6 +93,18 @@ The dashboard provides views of:
 - Sub-category performance
 - Shipping performance
 
+- #### Sales Performance
+
+![Superstore Sales Performance Dashboard](Dashboard/sales-performance-dashboard.png)
+
+#### Customer & Product Insights
+
+![Customer & Product Insights](Dashboard/customer-product-insights.png)
+
+#### Shipping & Operations
+
+![Shipping & Operations](Dashboard/shipping-operations-dashboard.png)
+
 ### 4. Business Insights & Recommendations
 
 The analytical results were evaluated from a business perspective to identify revenue opportunities, areas requiring attention, and potential operational improvements.
