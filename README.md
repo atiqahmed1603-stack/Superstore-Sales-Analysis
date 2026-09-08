@@ -56,3 +56,13 @@ Python and Pandas were used to:
 - Perform exploratory analysis and validate key findings
 
 SQL was then used to reproduce and extend the analysis through business-focused queries
+
+## Tools & Technologies
+
+- *Python* — Data cleaning, exploration, analysis, and visualization
+- *Pandas* — Data manipulation and analysis
+- *NumPy* — Numerical analysis
+- *Matplotlib & Seaborn* — Data visualization
+- *SQL (PostgreSQL)* — Business-focused querying and analysis
+- *Power BI* — Interactive dashboard development and reporting
+- *GitHub* — Project documentation and version control
