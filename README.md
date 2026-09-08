@@ -119,3 +119,10 @@ The analytical results were evaluated from a business perspective to identify re
 *Business Implication:* The business experiences a significant difference in sales activity throughout the year. The consistently weaker performance in January and February represents a potential opportunity to improve revenue during the early months of the year.
 
 *Recommendation:* Maintain strong preparation for the November sales period while investigating strategies to increase order activity during January and February. Potential approaches could include targeted promotions, customer re-engagement campaigns, and seasonal offers designed to encourage additional purchases during weaker periods.
+### 4. High-Value Customer Product Concentration
+
+*Finding:* The highest-value 25% of customers generate approximately 55% of total sales. Within this customer group, Technology is the largest category, generating approximately $539K, or 43% of their sales. Within Technology, Phones and Machines together account for approximately 64% of Technology sales for this customer segment.
+
+*Business Implication:* Revenue is concentrated among high-value customers, and their Technology purchases represent an important part of this revenue. Heavy reliance on a relatively small customer group and a limited set of product areas could create concentration risk if purchasing patterns change.
+
+*Recommendation:* Prioritize retention and engagement of high-value customers while monitoring the products and sub-categories that contribute most to their sales. Management should also evaluate opportunities to broaden product demand and reduce excessive reliance on specific customer and product groups over time.
