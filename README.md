@@ -19,3 +19,14 @@ The analysis focuses on:
 - Evaluating shipping performance and potential operational opportunities
 
 The goal is to translate these findings into actionable business insights and recommendations that could support decisions around customer engagement, product performance, regional growth, and operational efficiency
+## Objectives
+
+The key objectives of this analysis are to:
+
+- Analyze overall sales performance and year-over-year growth
+- Identify seasonal trends and periods of high and low sales activity
+- Segment customers based on their contribution to total sales
+- Identify high-performing and underperforming products and sub-categories
+- Evaluate regional sales performance and identify areas requiring attention
+- Analyze shipping performance across shipping modes and regions
+- Translate analytical findings into actionable business recommendations
