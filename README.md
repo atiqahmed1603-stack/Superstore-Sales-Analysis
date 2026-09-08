@@ -112,3 +112,10 @@ The analytical results were evaluated from a business perspective to identify re
 *Business Implication:* Central is generating more orders but extracting less revenue per order. The sharp decline in a previously significant copier product contributed substantially to the regional sales decline.
 
 *Recommendation:* Investigate changes in Central's order composition and the reasons behind the decline in high-value products, particularly the Canon imageCLASS 2200 Advanced Copier. Potential factors such as product availability, customer demand, or product mix should be investigated before deciding on corrective actions.
+### 3. Strong Sales Seasonality
+
+*Finding:* Sales show a strong recurring seasonal pattern. November is the highest-sales month across the dataset, generating approximately $350K in total sales, while February is the weakest month at approximately $59K. November sales are nearly 6 times higher than February sales.
+
+*Business Implication:* The business experiences a significant difference in sales activity throughout the year. The consistently weaker performance in January and February represents a potential opportunity to improve revenue during the early months of the year.
+
+*Recommendation:* Maintain strong preparation for the November sales period while investigating strategies to increase order activity during January and February. Potential approaches could include targeted promotions, customer re-engagement campaigns, and seasonal offers designed to encourage additional purchases during weaker periods.
