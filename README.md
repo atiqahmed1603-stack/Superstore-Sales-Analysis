@@ -30,3 +30,29 @@ The key objectives of this analysis are to:
 - Evaluate regional sales performance and identify areas requiring attention
 - Analyze shipping performance across shipping modes and regions
 - Translate analytical findings into actionable business recommendations
+- ## Dataset
+
+The project uses the Superstore Sales Dataset containing 9,800 transactional records across 18 original columns.
+
+Key fields include:
+
+- Order and shipping dates
+- Customer and order information
+- Customer segment
+- Geographic information
+- Product and category information
+- Sales
+
+The dataset does not contain fields such as Quantity, Profit, Discount, or Cost. Therefore, the analysis focuses on sales/revenue, order activity, customer behavior, product performance, regional performance, seasonality, and shipping patterns.
+
+### Data Preparation
+
+Python and Pandas were used to:
+
+- Inspect the dataset structure and data types
+- Check for missing values
+- Convert date fields into appropriate datetime formats
+- Create derived shipping duration information
+- Perform exploratory analysis and validate key findings
+
+SQL was then used to reproduce and extend the analysis through business-focused queries
