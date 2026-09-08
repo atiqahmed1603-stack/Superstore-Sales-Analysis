@@ -96,3 +96,12 @@ The dashboard provides views of:
 ### 4. Business Insights & Recommendations
 
 The analytical results were evaluated from a business perspective to identify revenue opportunities, areas requiring attention, and potential operational improvements.
+## Key Findings
+
+### 1. Revenue Concentration
+
+*Finding:* Approximately 25% of customers account for 55% of total sales, indicating significant revenue concentration among high-value customers.
+
+*Business Implication:* A relatively small customer group contributes a large share of revenue, making retention and engagement of these customers particularly important.
+
+*Recommendation:* Prioritize retention and re-engagement strategies for high-value customers and continue monitoring their purchasing behavior, particularly during weaker sales periods.
