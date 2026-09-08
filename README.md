@@ -66,3 +66,33 @@ SQL was then used to reproduce and extend the analysis through business-focused 
 - *SQL (PostgreSQL)* — Business-focused querying and analysis
 - *Power BI* — Interactive dashboard development and reporting
 - *GitHub* — Project documentation and version control
+- ## Analysis Workflow
+
+The project follows a structured end-to-end analytics workflow:
+
+### 1. Python & Exploratory Data Analysis
+
+Python and Pandas were used to inspect, clean, transform, and explore the dataset. Exploratory analysis was performed to identify sales trends, customer patterns, product performance, regional differences, seasonality, and shipping behavior.
+
+### 2. SQL Analysis
+
+PostgreSQL was used to reproduce key findings and perform deeper business-focused analysis. SQL queries were used to analyze customer segments, regional performance, product-level changes, order activity, and shipping performance.
+
+### 3. Power BI Dashboard
+
+Power BI was used to transform the analytical findings into interactive dashboards for business reporting and decision-making.
+
+The dashboard provides views of:
+
+- Overall sales performance
+- Year-over-year sales growth
+- Monthly sales trends
+- Category and regional performance
+- Customer value segments
+- Top customers and products
+- Sub-category performance
+- Shipping performance
+
+### 4. Business Insights & Recommendations
+
+The analytical results were evaluated from a business perspective to identify revenue opportunities, areas requiring attention, and potential operational improvements.
