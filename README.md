@@ -126,3 +126,10 @@ The analytical results were evaluated from a business perspective to identify re
 *Business Implication:* Revenue is concentrated among high-value customers, and their Technology purchases represent an important part of this revenue. Heavy reliance on a relatively small customer group and a limited set of product areas could create concentration risk if purchasing patterns change.
 
 *Recommendation:* Prioritize retention and engagement of high-value customers while monitoring the products and sub-categories that contribute most to their sales. Management should also evaluate opportunities to broaden product demand and reduce excessive reliance on specific customer and product groups over time.
+### 5. Shipping Performance
+
+*Finding:* Standard Class is the most frequently used shipping mode, accounting for approximately 60% of all orders, with an average delivery time of approximately 5 days. Shipping performance is relatively consistent across regions, with only minor differences in average shipping duration.
+
+*Business Implication:* Because Standard Class handles the majority of orders, even a modest improvement in its delivery time could affect a large portion of customer orders. The opportunity is particularly relevant for high-value customers who also frequently use Standard Class.
+
+*Recommendation:* Evaluate whether Standard Class delivery times can be reduced without negatively affecting operating costs or service quality. Management could investigate logistics and fulfillment processes to determine whether delivery times can be improved toward 3–4 days, particularly for high-value customer orders.
